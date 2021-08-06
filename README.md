@@ -3,6 +3,8 @@
 
 This is a simple medicine box used to remind old age paitents to take their medicines on time. This project is based on BoltIot wifi module which uses an Esp8266 module.
 
+## project simulation live at : https://wokwi.com/arduino/projects/306191531642978882
+
 ## Components used :
 
 1. WIFI MODULE - ESP8266 
